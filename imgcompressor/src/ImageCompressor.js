@@ -44,3 +44,4 @@ function ImageCompressor() {
     </div>
   );
 }
+export default ImageCompressor;
